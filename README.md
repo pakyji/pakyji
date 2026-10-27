@@ -68,10 +68,10 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[The Syndicate](https://github.com/pakyji/The-Syndicate-Discord-Bot-)** | Feature-rich Discord bot with moderation & economy. | 🤖 💻 |
-| **[TheSuperAgent](https://github.com/pakyji/TheSuperAgent)** | Kotlin-based autonomous agent project. | 📱 🤖 |
-| **[OmniRoute](https://github.com/pakyji/omniroute)** | Free AI gateway for multiple LLM providers. | 🌐 🤖 |
-| **[Open-Jarvis](https://github.com/pakyji/open-jarvis)** | Open-source personal assistant framework. | 🤖 🧠 |
+| **[The Syndicate](https://github.com/pakyji/The-Syndicate-Discord-Bot-)** | Feature-rich Discord bot with moderation & economy. | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
+| **[TheSuperAgent](https://github.com/pakyji/TheSuperAgent)** | Kotlin-based autonomous agent project. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
+| **[OmniRoute](https://github.com/pakyji/omniroute)** | Free AI gateway for multiple LLM providers. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **[Open-Jarvis](https://github.com/pakyji/open-jarvis)** | Open-source personal assistant framework. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
 
 </div>
 
