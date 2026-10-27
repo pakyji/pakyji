@@ -33,13 +33,17 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org/)
 [![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org/)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org/)
 [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com/)
+[![Gradle](https://skillicons.dev/icons?i=gradle&theme=dark)](https://gradle.org/)
 
 **Databases**
 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://www.sqlite.org/)
 
 **Automation & Projects**
 
@@ -67,6 +71,7 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 | **[The Syndicate](https://github.com/pakyji/The-Syndicate-Discord-Bot-)** | Feature-rich Discord bot with moderation & economy. | 🤖 💻 |
 | **[TheSuperAgent](https://github.com/pakyji/TheSuperAgent)** | Kotlin-based autonomous agent project. | 📱 🤖 |
 | **[OmniRoute](https://github.com/pakyji/omniroute)** | Free AI gateway for multiple LLM providers. | 🌐 🤖 |
+| **[Open-Jarvis](https://github.com/pakyji/open-jarvis)** | Open-source personal assistant framework. | 🤖 🧠 |
 
 </div>
 
