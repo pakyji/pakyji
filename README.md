@@ -54,9 +54,9 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 **Learning & Exploration**
 
-[![Informatica](https://img.shields.io/badge/Informatica-42DDF8?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
-[![Computer Science](https://img.shields.io/badge/Computer%20Science-42DDF8?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
-[![Software Development](https://img.shields.io/badge/Software%20Development-42DDF8?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_engineering)
+[![Informatics](https://img.shields.io/badge/Informatics-9B5DE5?style=for-the-badge&logo=codeforces&logoColor=white)](https://en.wikipedia.org/wiki/Informatics)
+[![Computer Science](https://img.shields.io/badge/Computer_Science-42DDF8?style=for-the-badge&logo=codeproject&logoColor=white)](https://en.wikipedia.org/wiki/Computer_science)
+[![Software Development](https://img.shields.io/badge/Software_Development-39FF14?style=for-the-badge&logo=githubactions&logoColor=white)](https://en.wikipedia.org/wiki/Software_engineering)
 
 </div>
 
