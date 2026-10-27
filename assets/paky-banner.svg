@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0B14"/>
+      <stop offset="1" stop-color="#121424"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42DDF8"/>
+      <stop offset=".45" stop-color="#9B5DE5"/>
+      <stop offset="1" stop-color="#C18AFF"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B1D2E"/>
+      <stop offset="1" stop-color="#141624"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#9B5DE5" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#9B5DE5" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="120" cy="60" r="70" fill="#42DDF8" opacity=".10" filter="url(#blur)"/>
+  <circle cx="1090" cy="280" r="100" fill="#C18AFF" opacity=".12" filter="url(#blur)"/>
+  <circle cx="880" cy="40" r="55" fill="#5DE2A5" opacity=".08" filter="url(#blur)"/>
+  <path d="M0 245C150 210 300 270 480 240s280-65 450-25 200 60 270 30" stroke="#6B7FA8" stroke-opacity=".10" stroke-width="1.5"/>
+  <g fill="#C8D2EA" opacity=".75">
+    <circle cx="95" cy="85" r="2"/>
+    <circle cx="612" cy="52" r="1.5"/>
+    <circle cx="720" cy="275" r="2"/>
+    <circle cx="1130" cy="70" r="1.5"/>
+    <circle cx="655" cy="108" r="1.2"/>
+    <circle cx="62" cy="220" r="1.2"/>
+    <circle cx="310" cy="150" r="1.5"/>
+    <circle cx="940" cy="190" r="1.2"/>
+  </g>
+
+  <!-- Terminal header bar -->
+  <rect x="76" y="92" width="330" height="4" rx="2" fill="#2A2E44"/>
+  <circle cx="88" cy="94" r="5" fill="#FF6B7A"/>
+  <circle cx="107" cy="94" r="5" fill="#F6C969"/>
+  <circle cx="126" cy="94" r="5" fill="#5DE2A5"/>
+
+  <!-- Title -->
+  <text x="76" y="205" fill="#FFFFFF" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="72" font-weight="900" letter-spacing="2">PAKY</text>
+  <rect x="80" y="216" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="248" fill="#9B5DE5" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="4.5">CODING  &bull;  DATABASES  &bull;  AUTOMATION  &bull;  TECHNOLOGY</text>
+
+  <!-- Code panel -->
+  <g transform="translate(760 95)">
+    <rect width="380" height="195" rx="18" fill="url(#card)" stroke="#2D3350" stroke-opacity=".45"/>
+    <path d="M0 48h380" stroke="#333A52" stroke-opacity=".35"/>
+    <circle cx="24" cy="24" r="5" fill="#FF6B7A"/>
+    <circle cx="44" cy="24" r="5" fill="#F6C969"/>
+    <circle cx="64" cy="24" r="5" fill="#5DE2A5"/>
+    <text x="28" y="90" fill="#8FA5C2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">01</text>
+    <text x="60" y="90" fill="#42DDF8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">const</text>
+    <text x="102" y="90" fill="#C8D2EA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">paky</text>
+    <text x="142" y="90" fill="#42DDF8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">=</text>
+    <text x="158" y="90" fill="#C18AFF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">{</text>
+    <text x="28" y="122" fill="#8FA5C2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">02</text>
+    <text x="60" y="122" fill="#9B5DE5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">code</text>
+    <text x="100" y="122" fill="#C8D2EA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">():</text>
+    <text x="140" y="122" fill="#C8D2EA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">void</text>
+    <text x="180" y="122" fill="#C18AFF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">{</text>
+    <text x="28" y="154" fill="#8FA5C2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">03</text>
+    <text x="60" y="154" fill="#42DDF8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">build</text>
+    <text x="100" y="154" fill="#C8D2EA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">();</text>
+    <text x="28" y="186" fill="#8FA5C2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">04</text>
+    <text x="60" y="186" fill="#C18AFF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">}</text>
+    <rect x="330" y="176" width="2" height="17" rx="1" fill="#42DDF8"/>
+  </g>
+
+  <text x="76" y="300" fill="#6B7FA8" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2.5">TERMINAL  \u00B7  CYBER-TECH  \u00B7  PAKYJI</text>
+</svg>
