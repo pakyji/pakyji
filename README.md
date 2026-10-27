@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/paky-banner.svg" alt="PAKY — Coding · Databases · Automation · Technology" width="100%" />
+  <img src="https://raw.githubusercontent.com/pakyji/pakyji/main/assets/paky-banner.svg" alt="PAKY — Coding · Databases · Automation · Technology" width="100%" />
 </div>
 
 <div align="center">
@@ -91,10 +91,6 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 ### ❯ Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-@pakyji-1A1B26?style=for-the-badge&logo=github&logoColor=white&color=9B5DE5)](https://github.com/pakyji)
-
----
-
-Visitors: ![](https://visitor-badge.glitch.me/badge?page_id=pakyji.visitors&color=39FF14)
 
 ---
 
