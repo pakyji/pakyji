@@ -9,6 +9,8 @@
   />
 </div>
 
+<br>
+
 ---
 
 <div align="center">
@@ -38,21 +40,19 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
 
 **Automation & Projects**
 
 [![Discord.js](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.js.org/)
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
 
 **Learning & Exploration**
 
-[![Informatica](https://img.shields.io/badge/Informatica-lightgrey?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
-[![Computer Science](https://img.shields.io/badge/Computer%20Science-lightgrey?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
-[![Software Development](https://img.shields.io/badge/Software%20Development-lightgrey?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_engineering)
+[![Informatica](https://img.shields.io/badge/Informatica-39FF14?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
+[![Computer Science](https://img.shields.io/badge/Computer%20Science-39FF14?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
+[![Software Development](https://img.shields.io/badge/Software%20Development-39FF14?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_engineering)
 
 </div>
 
@@ -62,11 +62,11 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 ### ❯ GitHub Statistics
 
-[![Paky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakyji&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&border_color=9B5DE5&title_color=42DDF8&text_color=C8D2EA&icon_color=9B5DE5&hide_border=false)](https://github.com/pakyji)
+[![Paky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakyji&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&border_color=9B5DE5&title_color=42DDF8&text_color=C8D2EA&icon_color=9B5DE5)](https://github.com/pakyji)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pakyji&theme=dracula&layout=compact&border_color=9B5DE5&title_color=42DDF8&text_color=C8D2EA&icon_color=9B5DE5&hide_border=false)](https://github.com/pakyji)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pakyji&theme=transparent&layout=compact&border_color=9B5DE5&title_color=42DDF8&text_color=C8D2EA)](https://github.com/pakyji)
 
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=pakyji&theme=dark&border=9B5DE5&dates=42DDF8&ring=9B5DE5&fire=42DDF8&currStreakLabel=42DDF8&sideNums=C8D2EA&currStreakNum=C8D2EA&sideLabels=C8D2EA)](https://git.io/streak-stats)
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=pakyji&theme=transparent&border=9B5DE5&dates=42DDF8&ring=9B5DE5&fire=39FF14&currStreakLabel=42DDF8&sideNums=C8D2EA&currStreakNum=C8D2EA&sideLabels=C8D2EA)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,50 +76,11 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 ### ❯ Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/pakyji/The-Syndicate-Discord-Bot-">
-        <img src="https://skillicons.dev/icons?i=discord,nodejs&theme=dark" width="80"/><br/><b>The Syndicate</b>
-        <sub>A feature-rich Discord bot with moderation, persistent economy, verification flows, and YouTube music.</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pakyji/TheSuperAgent">
-        <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="80"/><br/><b>TheSuperAgent</b>
-        <sub>Kotlin-based autonomous agent project.</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pakyji/omniroute">
-        <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="80"/><br/><b>OmniRoute</b>
-        <sub>Free AI gateway connecting Claude Code, Codex, Cursor, Cline & Copilot to free models.</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### ❯ Current Interests
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark) Databases — PostgreSQL, MongoDB, SQL & NoSQL](https://www.postgresql.org/)
-[![Automation](https://skillicons.dev/icons?i=nodejs,discord&theme=dark) Automation — Discord bots, REST APIs, integrations](https://nodejs.org/)
-[![Software Development](https://skillicons.dev/icons?i=javascript,typescript,kotlin&theme=dark) Development — JavaScript, TypeScript, Kotlin](https://kotlinlang.org/)
-
-</div>
-
----
-
-<div align="center">
-
-### ❯ Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pakyji&theme=github-dark&area=true&point=42DDF8&line=9B5DE5&bar=C18AFF&custom_title=Paky's+Contribution+Graph" alt="Paky's Contribution Graph" width="100%"/>
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[The Syndicate](https://github.com/pakyji/The-Syndicate-Discord-Bot-)** | Feature-rich Discord bot with moderation & economy. | 🤖 💻 |
+| **[TheSuperAgent](https://github.com/pakyji/TheSuperAgent)** | Kotlin-based autonomous agent project. | 📱 🤖 |
+| **[OmniRoute](https://github.com/pakyji/omniroute)** | Free AI gateway for multiple LLM providers. | 🌐 🤖 |
 
 </div>
 
@@ -129,11 +90,11 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 ### ❯ Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-@pakyjii-1A1B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pakyji)
+[![GitHub](https://img.shields.io/badge/GitHub-@pakyji-1A1B26?style=for-the-badge&logo=github&logoColor=white&color=9B5DE5)](https://github.com/pakyji)
 
 ---
 
-Visitors: ![](https://visitor-badge.glitch.me/badge?page_id=pakyji.visitors)
+Visitors: ![](https://visitor-badge.glitch.me/badge?page_id=pakyji.visitors&color=39FF14)
 
 ---
 
