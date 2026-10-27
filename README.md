@@ -4,7 +4,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&color=42DDF8,9B5DE5,39FF14&center=true&vCenter=true&width=1000&height=45&lines=PAKY+·+CODING%2C+DATABASES%2C+AUTOMATION%2C+TECHNOLOGY;Exploring+languages%2C+building+Discord+bots%2C+and+automating+everything;Terminal+by+instinct%2C+developer+by+practice"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&color=42DDF8,9B5DE5,39FF14&center=true&vCenter=true&width=1000&height=45&lines=PAKY+·+CODING%2C+DATABASES%2C+AUTOMATION%2C+TECHNOLOGY;Exploring+languages%2C+building+Discord+bots%2C+and+automating+everything;Terminal+by+instinct%2C+developer+by+practice&cacheBuster=2"
     alt="Typing SVG"
   />
 </div>
