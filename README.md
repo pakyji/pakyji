@@ -17,7 +17,9 @@
 
 ### ❯ Hey, I'm Paky
 
-Hey, I'm Paky! I'm passionate about coding, technology, databases, and automation. I'm exploring different programming languages, building projects, experimenting with Discord bots, and continuously learning more about software development and informatics.
+Hey, I'm Paky! I'm passionate about **coding**, **technology**, **databases**, and **automation**. I'm exploring different programming languages, building projects, experimenting with **Discord bots**, and continuously learning more about **software development** and **informatics**.
+
+🚀 Currently diving deeper into **AI integrations** and **autonomous systems**.
 
 </div>
 
