@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pakyji/pakyji/main/assets/paky-banner.svg" alt="PAKY — Coding · Databases · Automation · Technology" width="100%" />
+  <img src="https://raw.githubusercontent.com/pakyji/pakyji/main/assets/paky-banner.svg?t=1" alt="PAKY — Coding · Databases · Automation · Technology" width="100%" />
 </div>
 
 <div align="center">
@@ -54,9 +54,9 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 **Learning & Exploration**
 
-[![Informatica](https://img.shields.io/badge/Informatica-39FF14?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
-[![Computer Science](https://img.shields.io/badge/Computer%20Science-39FF14?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
-[![Software Development](https://img.shields.io/badge/Software%20Development-39FF14?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_engineering)
+[![Informatica](https://img.shields.io/badge/Informatica-42DDF8?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
+[![Computer Science](https://img.shields.io/badge/Computer%20Science-42DDF8?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_science)
+[![Software Development](https://img.shields.io/badge/Software%20Development-42DDF8?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_engineering)
 
 </div>
 
