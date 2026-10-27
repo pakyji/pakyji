@@ -60,20 +60,6 @@ Hey, I'm Paky! I'm passionate about coding, technology, databases, and automatio
 
 <div align="center">
 
-### ❯ GitHub Statistics
-
-[![Paky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakyji&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&border_color=9B5DE5&title_color=42DDF8&text_color=C8D2EA&icon_color=9B5DE5)](https://github.com/pakyji)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pakyji&theme=transparent&layout=compact&border_color=9B5DE5&title_color=42DDF8&text_color=C8D2EA)](https://github.com/pakyji)
-
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=pakyji&theme=transparent&border=9B5DE5&dates=42DDF8&ring=9B5DE5&fire=39FF14&currStreakLabel=42DDF8&sideNums=C8D2EA&currStreakNum=C8D2EA&sideLabels=C8D2EA)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
 ### ❯ Featured Projects
 
 | Project | Description | Tech |
