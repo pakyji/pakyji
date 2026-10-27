@@ -47,7 +47,7 @@
   <!-- Title -->
   <text x="76" y="205" fill="#FFFFFF" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="72" font-weight="900" letter-spacing="2">PAKY</text>
   <rect x="80" y="216" width="56" height="4" rx="2" fill="url(#accent)"/>
-  <text x="76" y="248" fill="#9B5DE5" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="4.5">CODING  &bull;  DATABASES  &bull;  AUTOMATION  &bull;  TECHNOLOGY</text>
+  <text x="76" y="248" fill="#9B5DE5" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="4.5">CODING  •  DATABASES  •  AUTOMATION  •  TECHNOLOGY</text>
 
   <!-- Code panel -->
   <g transform="translate(760 95)">
